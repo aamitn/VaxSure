@@ -1,0 +1,2 @@
+# VaxSure
+GET CONFIRMED VACCINATION SLOTS IN INDIA FOR SARS-COV2 [Covishield and Covaxin Supported]
